@@ -19,8 +19,6 @@ config/secrets.yml
 /.bundle
 /vendor/bundle
 
-vendor/bundle
-
 # these should all be checked in to normalise the environment:
 # Gemfile.lock, .ruby-version, .ruby-gemset
 
