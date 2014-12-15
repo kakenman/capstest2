@@ -61,6 +61,7 @@ set :default_environment, { 'PATH' => '$HOME/.rbenv/shims:$HOME/.rbenv/bin:$HOME
 # Default value for keep_releases is 5
 # set :keep_releases, 5
 
+
 # namespace :deploy do
 #
 #   desc 'Restart application'
